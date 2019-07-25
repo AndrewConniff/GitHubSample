@@ -1,5 +1,5 @@
 # GitHubSample
 
-MVC project this is the original project name with the underscore removed.
+MVC_protect
 
-Now we will add some competing text here.
+Changed the title and added this extra text.
